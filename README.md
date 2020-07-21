@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+## how to use
 
-**Bold** and _Italic_ and `Code` text
+[Link](url) and ![deploy.on.faas](https://button.faas.ovh/deploy.on.faas.png)
 
-[Link](url) and ![Image](src)
-
-<a href="https://deploy.faas.ovh/">
-  <img src="https://button.faas.ovh/deploy.on.faas.png" alt="Deploy">
+<a href="https://deploy.on.faas.ovh/">
+  <img src="https://button.faas.ovh/deploy.on.faas.png" alt="Deploy on Faas">
 </a>
