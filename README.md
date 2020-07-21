@@ -12,7 +12,7 @@ https://devcenter.heroku.com/articles/heroku-button
   <img src="https://button.faas.ovh/deploy.on.faas.png" alt="Deploy on Faas">
 </a>
 
-    <a href="https://deploy.on.faas.ovh/">
+    <a href="https://deploy.on.faas.ovh?git=https://github.com/faas-ovh/www">
       <img src="https://button.faas.ovh/deploy.on.faas.png" alt="Deploy on Faas">
     </a>
 
