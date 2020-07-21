@@ -1,5 +1,6 @@
-# Button
 
+
+# Button
 https://www.imagefu.com/create/button
 
 ## Config button
@@ -7,7 +8,7 @@ https://devcenter.heroku.com/articles/heroku-button
 
 ## Html
 
-<a href="https://deploy.on.faas.ovh/">
+<a href="https://deploy.on.faas.ovh?git=https://github.com/faas-ovh/www">
   <img src="https://button.faas.ovh/deploy.on.faas.png" alt="Deploy on Faas">
 </a>
 
@@ -19,3 +20,5 @@ https://devcenter.heroku.com/articles/heroku-button
 [![deploy.on.faas.ovh](https://button.faas.ovh/deploy.on.faas.png)](https://deploy.on.faas.ovh?git=https://github.com/faas-ovh/www)
 
     [![deploy.on.faas.ovh](https://button.faas.ovh/deploy.on.faas.png)](https://deploy.on.faas.ovh?git=https://github.com/faas-ovh/www)
+
+
